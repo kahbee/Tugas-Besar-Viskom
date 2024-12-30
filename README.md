@@ -1,6 +1,7 @@
-Tugas Besar Visi Komputer IF-45-DSIS.02
+#Tugas Besar Visi Komputer IF-45-DSIS.02
 
 1301210233 - Kahfi Rizky Firmansyah
+
 1301213251 - Gandhi Risyad Abimanyu
 
 dataset didapatkan dari:
